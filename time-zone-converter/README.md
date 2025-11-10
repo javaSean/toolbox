@@ -3,7 +3,7 @@
 A sleek, responsive **Time Zone Converter App** built with **Next.js**.  
 It allows users to convert times between different world time zones using an intuitive interface inspired by the design of [JavaSean.com](https://javasean.com).
 
-![Time Zone Converter Screenshot](public/preview.png)
+![Time Zone Converter Preview](https://javasean.com/timeZoneApp/)
 
 ---
 
