@@ -32,8 +32,8 @@ It allows users to convert times between different world time zones using an int
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/javasean/universe.git
-cd universe/time-zone-converter
+git clone https://github.com/javasean/toolbox.git
+cd toolbox/time-zone-converter
 ```
 
 ### Install Dependencies
